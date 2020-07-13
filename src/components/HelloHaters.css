@@ -1,0 +1,9 @@
+.super-red {
+    background-color: red;
+    color: white;
+  }
+
+.super-white {
+    background-color: transparent;
+    color: black;
+}
